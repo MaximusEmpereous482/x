@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from schedule import get_schedule
 
-TOKEN = "8572679696:AAHO_R7Ewr40KNO6Uu6X1k0WwK3RccZE0NQ"
+TOKEN = ""
 GROUP_ID = "199"  # По умолчанию для вашего примера
 
 bot = Bot(token=TOKEN)
